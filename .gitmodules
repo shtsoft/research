@@ -7,3 +7,6 @@
 [submodule "maphy/catctxphy"]
 	path = maphy/catctxphy
 	url = https://github.com/shtsoft/catctxphy
+[submodule "maphy/tqft"]
+	path = maphy/tqft
+	url = https://github.com/shtsoft/tqft
