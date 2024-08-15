@@ -4,3 +4,6 @@
 [submodule "maphy/2dibc"]
 	path = maphy/2dibc
 	url = https://github.com/shtsoft/2dibc
+[submodule "maphy/catctxphy"]
+	path = maphy/catctxphy
+	url = https://github.com/shtsoft/catctxphy
